@@ -1,0 +1,25 @@
+body
+{
+            background-color: papayawhip;
+        }
+        h1{
+            color:peru;
+        }
+        h3{
+            color:peru;
+        }
+        hr{
+            background-color: white;
+            border-style:dotted none none;
+            border-color:grey;
+            border-width:5px;
+            height: 2px;
+            width: 10%;
+        }
+        .circular{
+            border-radius: 100%;
+        }
+body{
+    font-family: cursive;
+    
+}
